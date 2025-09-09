@@ -17,7 +17,7 @@ A classic Snake game built with pure HTML5, CSS, and JavaScript.
 
 ## ⚡ Quick Start
 ```bash
-git clone https://github.com/your-username/snakegame.git
+git clone https://github.com/mahdianimator/snakegame.git
 cd snakegame
 open index.html
 ```
